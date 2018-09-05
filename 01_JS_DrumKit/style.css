@@ -23,7 +23,7 @@ html, body {
     border-radius: .5rem;
     margin: 1rem;
     font-size: 1.5rem;
-    transition: all 0.05s ease-in;
+    transition: all 0.05s ease;
     padding: 1rem 0.5rem;
     width: 10rem;
     text-align: center;
